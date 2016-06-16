@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'kmol'
+AUTHOR = '40323236'
 SITENAME = 'CDW11 網頁 (虎尾科大MDE)'
-SITEURL = 'http://cdw11-ag100.rhcloud.com/static/'
+SITEURL = 'http://40323236cdw11-40323236.rhcloud.com/static/'
 
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
