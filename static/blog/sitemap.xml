@@ -4,91 +4,91 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://cdw11-ag100.rhcloud.com/static/blog/</loc>
-<lastmod>2016-06-16T09:17:27-00:00</lastmod>
+<loc>http://40323236cdw11-40323236.rhcloud.com/static/blog/</loc>
+<lastmod>2016-06-16T09:42:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://cdw11-ag100.rhcloud.com/static/blog/archives.html</loc>
-<lastmod>2016-06-16T09:17:27-00:00</lastmod>
+<loc>http://40323236cdw11-40323236.rhcloud.com/static/blog/archives.html</loc>
+<lastmod>2016-06-16T09:42:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://cdw11-ag100.rhcloud.com/static/blog/tags.html</loc>
-<lastmod>2016-06-16T09:17:27-00:00</lastmod>
+<loc>http://40323236cdw11-40323236.rhcloud.com/static/blog/tags.html</loc>
+<lastmod>2016-06-16T09:42:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://cdw11-ag100.rhcloud.com/static/blog/categories.html</loc>
-<lastmod>2016-06-16T09:17:27-00:00</lastmod>
+<loc>http://40323236cdw11-40323236.rhcloud.com/static/blog/categories.html</loc>
+<lastmod>2016-06-16T09:42:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://cdw11-ag100.rhcloud.com/static/blog/40323236-qi-mo-bao-gao.html</loc>
+<loc>http://40323236cdw11-40323236.rhcloud.com/static/blog/40323236-qi-mo-bao-gao.html</loc>
 <lastmod>2016-06-16T09:15:05+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://cdw11-ag100.rhcloud.com/static/blog/40323299-cdw12-bao-gao.html</loc>
+<loc>http://40323236cdw11-40323236.rhcloud.com/static/blog/40323299-cdw12-bao-gao.html</loc>
 <lastmod>2016-06-16T08:47:12+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://cdw11-ag100.rhcloud.com/static/blog/category/bg101.html</loc>
+<loc>http://40323236cdw11-40323236.rhcloud.com/static/blog/category/bg101.html</loc>
 <lastmod>2016-06-16T08:47:12+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://cdw11-ag100.rhcloud.com/static/blog/category/bg7.html</loc>
+<loc>http://40323236cdw11-40323236.rhcloud.com/static/blog/category/bg7.html</loc>
 <lastmod>2016-06-16T09:15:05+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://cdw11-ag100.rhcloud.com/static/blog/tag/cdw12.html</loc>
+<loc>http://40323236cdw11-40323236.rhcloud.com/static/blog/tag/40323299.html</loc>
 <lastmod>2016-06-16T08:47:12+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://cdw11-ag100.rhcloud.com/static/blog/tag/4032323650.html</loc>
+<loc>http://40323236cdw11-40323236.rhcloud.com/static/blog/tag/4032323650.html</loc>
 <lastmod>2016-06-16T09:15:05+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://cdw11-ag100.rhcloud.com/static/blog/tag/40323299.html</loc>
+<loc>http://40323236cdw11-40323236.rhcloud.com/static/blog/tag/cdw12.html</loc>
 <lastmod>2016-06-16T08:47:12+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://cdw11-ag100.rhcloud.com/static/blog/author/40323236.html</loc>
+<loc>http://40323236cdw11-40323236.rhcloud.com/static/blog/author/40323236.html</loc>
 <lastmod>2016-06-16T09:15:05+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://cdw11-ag100.rhcloud.com/static/blog/author/40323299.html</loc>
+<loc>http://40323236cdw11-40323236.rhcloud.com/static/blog/author/40323299.html</loc>
 <lastmod>2016-06-16T08:47:12+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
