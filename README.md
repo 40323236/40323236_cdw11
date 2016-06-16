@@ -1,1 +1,1 @@
-# 40323236_cdw11
+http://40323236cdw11-40323236.rhcloud.com/static/blog/
